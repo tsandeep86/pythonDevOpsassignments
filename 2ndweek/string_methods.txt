@@ -1,0 +1,33 @@
+>>>s
+'Python is awsome'
+>>> s.capitalize()
+'Python is awsome'
+>>> s.center(20,"#")
+'##Python is awsome##'
+>>> s.count("o",0,20)
+2
+>>> s.endswith("e")
+True
+>>> s.expandtabs(12)
+'Python is awsome'
+>>> s.find("aws")
+10
+>>> s.find("saw")
+-1
+>>> s.index("aws")
+10
+>>> s.isalnum()
+False
+>>> s.isalpha()
+False
+>>> s.isdigit()
+False
+>>> s.islower()
+False
+>>> s.isspace()
+False
+>>> s.istitle()
+False
+>>> s.isupper()
+False
+>>>
