@@ -32,7 +32,7 @@ for i in range(len(l)):
         ld["".join(nl)].append(tl[i])
     del nl[:]
 
-#print ld
+print ld
 print ld.values()    
 
 
